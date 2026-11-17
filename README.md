@@ -42,7 +42,7 @@ The database schema models campus multi-tenancy and media association:
 4. **`events`**: Campus events and fests categorizing photo submissions.
 5. **`photos`**: Uploaded media records with Cloudinary public IDs, hashtags, moderation flags, and timestamps.
 6. **`tags`**: Reusable tags scoped per college with usage frequency tracking.
-7. **`photo_tags`**: Many-to-many junction bridge associating photos with tags.
+7. **`photo_tags`**: Many-to-many junction bridge associating photos with tagsss.
 
 ---
 
